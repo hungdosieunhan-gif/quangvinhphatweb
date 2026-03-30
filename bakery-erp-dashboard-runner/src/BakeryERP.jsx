@@ -742,7 +742,7 @@ export default function BakeryERP() {
           <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
             <div style={{ width: 28, height: 28, borderRadius: 6, background: "white", display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden" }}>
               <img
-                src="/logo.png"
+                src="logo.png"
                 alt="Quang Vinh Phat"
                 style={{ width: 26, height: 26, objectFit: "contain" }}
               />
