@@ -1,0 +1,1 @@
+chrome-extension://gfgbmghkdjckppeomloefmbphdfmokgd/css/style.css
